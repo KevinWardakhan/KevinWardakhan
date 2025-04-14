@@ -1,16 +1,21 @@
-## Hi there 👋
+## 👋 About Me
 
-<!--
-**KevinWardakhan/KevinWardakhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Kevin Wardakhan, a student at Université Paris Dauphine - PSL, passionate about data science and applied mathematics.
 
-Here are some ideas to get you started:
+I'm currently exploring advanced statistical models, machine learning, and automation projects.  
+I enjoy working on practical problems and building clean, efficient solutions — from data analysis to backend development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects Overview
+
+- **Bike-Sharing Demand Prediction (GLM Project)**  
+  Using Generalized Linear Models to predict urban bike rentals based on weather, time, and contextual factors.
+
+- **Monte Carlo Methods Project**  
+  Implementation of multiple Monte Carlo techniques (inverse CDF, accept-reject, stratified sampling) for probability estimation.
+
+- **Plagiarism Detection Tool (C Language Project)**  
+  Static code analysis in C to detect plagiarism between multiple source files, with visual output in `.pgm` format.
+
+- **Stack Machine Simulator (C Language Project)**  
+  Design and simulation of a stack-based virtual machine, including assembler and instruction-level execution.
+
