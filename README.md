@@ -7,7 +7,7 @@ Hi, I’m Kevin Wardakhan, a Master’s student at École Normale Supérieure Pa
   Variant of GANs to generate high quality images. Trained and tested on CelebA-HQ dataset.
 
 - **[Industrial Digital Twin](https://github.com/KevinWardakhan/Industrial-Digital-Twin) (PHATE + PGAN)**<br>
-  Showcases a 3-month data science internship project: a digital twin for an industrial unit (CarbOptim) with virtual sample generation and quality checks.
+  Showcases a 3-month data science internship project: a digital twin for an industrial unit with virtual sample generation and quality checks.
 
 - **[Bike-Sharing Demand Prediction (GLM Project)](https://github.com/KevinWardakhan/GLM_project)**  
   Using Generalized Linear Models to predict urban bike rentals based on weather, time, and contextual factors.
