@@ -1,6 +1,6 @@
 ## 👋 About Me
 
-Hi, I’m Kevin Wardakhan, a Master’s student at École Normale Supérieure Paris-Saclay specializing in data science and applied mathematics. I’m completing the MVA program (Mathematics, Vision, Learning)—one of Europe’s leading AI master’s—where I focus on advanced statistical modeling, machine learning, and automation. I love tackling real-world problems and building clean, efficient solutions end-to-end, from data analysis to backend development.
+Hi, I’m Kevin Wardakhan, a Master’s student at École Normale Supérieure Paris-Saclay specializing in data science and applied mathematics. I’m completing the MVA program (Mathematics, Vision, Learning) one of Europe’s leading AI master’s, where I focus on advanced statistical modeling, machine learning, and automation. I love tackling real-world problems and building clean, efficient solutions end-to-end, from data analysis to backend development.
 
 ## 🚀 Projects Overview
 - **Implementation of ProGAN**
