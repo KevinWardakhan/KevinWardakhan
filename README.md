@@ -4,7 +4,7 @@ Hi, I’m Kevin Wardakhan, a Master’s student at École Normale Supérieure Pa
 
 ## 🚀 Projects Overview
 - **[Implementation of ProGAN](https://github.com/KevinWardakhan/ProGAN)**<br>
-  Variant of GANs to generate high quality images. Trained and tested on CelebA-HQ dataset.
+  Variant of GANs to generate high quality images. Trained and tested on [CelebA-HQ](https://www.kaggle.com/datasets/lamsimon/celebahq) dataset.
 
 - **[Industrial Digital Twin](https://github.com/KevinWardakhan/Industrial-Digital-Twin) (PHATE + PGAN)**<br>
   Showcases a 3-month data science internship project: a digital twin for an industrial unit with virtual sample generation and quality checks.
